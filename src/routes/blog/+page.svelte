@@ -18,4 +18,6 @@
     {/each}
   </div>
 </div>
-
+<script>
+    import {routes} from './routes'
+</script>
