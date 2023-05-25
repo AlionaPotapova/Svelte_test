@@ -8,11 +8,11 @@
       padding: 0 20px;
     }
   
-    .blogposts {
-      display: grid;
+    .blogposts 
+      <display> <grid>;
       grid-template-columns: 1fr 1fr;
-      grid-gap: 20px;
-    }
+      grid-gap 20px;
+    
     .post {
     border: 1px solid #ddd;
     padding: 10px;
